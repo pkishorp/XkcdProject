@@ -8,8 +8,6 @@ from utils.timing import timeit
 from utils.randgen import ProduceNumbers
 
 
-
-
 def get_url(comic_id):
     """
     Fetches the url
@@ -24,6 +22,7 @@ def get_url(comic_id):
 
 @timeit
 def main():
+
     """
     Returns only title names of comics
     """

@@ -1,5 +1,6 @@
 """
     Data model for comic's which are available on https://xkcd.com
+    check the output
 """
 
 

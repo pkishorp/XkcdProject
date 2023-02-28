@@ -11,9 +11,9 @@ from datamodel.comic_datamodel import Comics
 # resources model
 from resources.r_comics import ResourceComics
 from utils.timing import timeit
+from task_one import get_url
 from utils.fetch_data import hit_url
 from utils.randgen import ProduceNumbers
-from task_one import get_url
 
 
 def comic():

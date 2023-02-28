@@ -35,5 +35,5 @@ if __name__ == "__name__":
     }
 
     obj = Comics(**external)
-    breakpoint()
+
     pprint(obj)

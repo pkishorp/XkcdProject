@@ -1,4 +1,4 @@
-Project Structure
+Project Structure as follows
 ------------------------------------------------------------------------------
 - xkcd (root directory)
 - task_one.py (TODO tasks)
@@ -7,6 +7,7 @@ Project Structure
 - requirements.txt (Project Requirements)
 - datamodel (package)
     comic_model
+- 
 - resources (package)
     base.py
     r_comics.py (resource implementation)

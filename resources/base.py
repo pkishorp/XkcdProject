@@ -9,7 +9,6 @@ class ResourceBase(object):
         all the resource classes
     """
 
-
     def __init__(self) -> None:
         self.home_url = "https://xkcd.com"
 
