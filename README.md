@@ -7,7 +7,6 @@ Project Structure as follows
 - requirements.txt (Project Requirements)
 - datamodel (package)
     comic_model
-- 
 - resources (package)
     base.py
     r_comics.py (resource implementation)
@@ -15,15 +14,15 @@ Project Structure as follows
     fetch_data
     randgen (Random number generator)
     time (Records time)
+######################################################################################################
 
 
-
-***** TASK - 1 *****
+                        ***** TASK - 1 *****
 
 - Fetches the only title names of n number of comics.
-- This we will also use as Command Line Interface.                                                 
+  - This we will also use as Command Line Interface.                                                 
 
-***** TASK - 2 *****
+                        ***** TASK - 2 *****
 - Fetches the data for any 10 random comics by default but with the help of CLI we can fetches the data for any random
 number of comics
 - In this we also can fetch the title name of each comic.
